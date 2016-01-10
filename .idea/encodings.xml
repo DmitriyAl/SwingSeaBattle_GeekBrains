@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/model/AI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/model/AutoShipPlacing.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/model/EasyComputerPlayer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/model/Field.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/model/GameWithComputer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/model/HumanPlayer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/model/IGame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/model/IPlayer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/model/Player.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/model/Point.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/model/Ship.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/model/ShipFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/model/ShipPlacing.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/GameView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/MyJPanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/StartMenuView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/SwingViewTest.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
